@@ -56,7 +56,9 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
-
+button#reset {
+    background: #696969;
+}
 .result {
     border-top: 1px solid #ccc;
     padding-top: 20px;
